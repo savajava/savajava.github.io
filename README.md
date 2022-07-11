@@ -13,4 +13,4 @@ To get API for KLSE (Malaysian) stocks:
 
 Currently this API supports only for Nasdaq, SGX and KLSE exchanges. Effort to include all exchanges in the works.
 
-Use Case Example
+Use Case [Example](https://savajava.github.io)
