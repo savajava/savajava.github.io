@@ -45,7 +45,7 @@ Figure 1.5 - Server denies requests if you had entered the wrong API Key.
 
 ![image](https://user-images.githubusercontent.com/108166534/179158108-f56e6142-777d-4438-91e5-b6dad8969630.png)
 ![image](https://user-images.githubusercontent.com/108166534/179158846-4da7d77d-4315-4dd9-9d12-bcdae3e92314.png)
-Figure 2.1 & 2.2 - Click <kbd>Back to Web Search</kbd> if you are in Developer mode, or if you are in Web Search mode, just select 'Stock Exchange', and type the target stock name or stock quote depending on your convenience (eg: both searching AAPL or Apple Inc or Apple are acceptable since web search is equipped with Advanced Dynamic Search algorithm to cater for better user experience), lastly click <kbd>Search</kbd> or press <kbd>Enter</kbd>.
+Figure 2.1 & 2.2 - Click <kbd>Back to Web Search</kbd> if you are in Developer mode, or if you are in Web Search mode, just select 'Stock Exchange', and type the target stock name or stock quote depending on your convenience (eg: Searching AAPL, Apple Inc or Apple are allowed as the web search functionality is equipped with Advanced Dynamic Search algorithm to cater for flexible search inputs for better user experience), lastly click <kbd>Search</kbd> or press <kbd>Enter</kbd> to process the request.
 
 #### Sample for Dividend Stock Output
 ![image](https://user-images.githubusercontent.com/108166534/179158819-a9530e74-cf69-4fc6-9698-24e781ed3184.png)
@@ -55,7 +55,7 @@ Figure 2.1 & 2.2 - Click <kbd>Back to Web Search</kbd> if you are in Developer m
 #### Sample for Non-Dividend Stock Output
 ![image](https://user-images.githubusercontent.com/108166534/179159449-e914af84-dec3-42a6-b59b-8bdefa2885b2.png)
 
-Figure 2.3, 2.4, 2.5 & 2.6 - After gathering data and performing analysis at the server side, details of the searched stock is loaded onto the screen and reaady for your research and analysis. The data will be displayed into 3 section, Dividend Analysis, Fundamentals and Dividend History. For non Dividend stocks, only Fundamentals will be displayed.
+Figure 2.3, 2.4, 2.5 & 2.6 - After gathering data and performing analysis at the server level, details of the searched stock will be loaded onto the screen and ready for your view. The data will be displayed into 3 section, Dividend Analysis, Fundamentals and Dividend History. For non Dividend stocks, only Fundamentals will be displayed.
 
 #### Toggle Dark/Light Mode
 ![image](https://user-images.githubusercontent.com/108166534/179159521-4d0b0732-8dd0-4478-b72f-32d364083d9d.png)
